@@ -195,3 +195,7 @@ Proyecto para automatizar recordatorios de servicio automotriz.
 ------------------------------------------------------------------------
 
 ¡Listo! Tu proyecto queda documentado profesionalmente 🔥
+=======
+# twilio-sql-main
+Automatiza el envío de WhatsApp a tus clientes con Twilio. Carga Excel, envía recordatorios de servicio, monitorea progreso en tiempo real y gestiona datos en PostgreSQL. Configuración fácil vía .env.
+>>>>>>> d343aaae31d6f933f46ca67d83d17b8b48197da4
